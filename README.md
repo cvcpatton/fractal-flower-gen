@@ -13,7 +13,7 @@ A simple web app that generates fractal flower/mandala patterns based on a user-
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/fractal-flower-generator.git
+   git clone https://github.com/yourusername/fractal-flower-gen.git
    cd fractal-flower-generator 
 ```
 
