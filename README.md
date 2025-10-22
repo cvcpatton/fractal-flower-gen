@@ -1,6 +1,6 @@
 # Fractal Flower Generator 🌸
 
-A simple web app that generates fractal flower/mandala patterns based on a user-entered seed (word or number). Built with HTML, CSS, and JavaScript (Canvas API).  
+A simple web app that generates fractal flower patterns based on a user-entered seed (word or number). Built with HTML, CSS, and JavaScript (Canvas API).  
 
 ## Features
 
@@ -20,6 +20,13 @@ A simple web app that generates fractal flower/mandala patterns based on a user-
 2. Open `index.html` in your browser.
 
 3. Enter a word or number seed, click Generate, and enjoy the fractal art!
+
+## Potential Upgrades  
+
+- Change colors for each level of depth.
+- Increase petal count for more complexity.
+- Specific user input for depth level and color choice.
+- A button to save the image as a PNG/JPG file.
 
 ## File structure  
 
