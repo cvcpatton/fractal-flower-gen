@@ -28,7 +28,7 @@ A simple web app that generates fractal flower patterns based on a user-entered 
 - Specific user input for depth level and color choice.
 - A button to save the image as a PNG/JPG file.
 
-## File structure  
+## File Structure  
 
 * index.html — Main webpage with input, button, and canvas.
 * styles.css — Styling for layout and controls.
