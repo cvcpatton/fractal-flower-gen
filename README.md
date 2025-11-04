@@ -1,6 +1,6 @@
 # Fractal Flower Generator 🌸
 
-A simple web app that generates fractal flower patterns based on a user-entered seed (word or number). Built with HTML, CSS, and JavaScript (Canvas API).  
+A simple web app that generates fractal flower patterns based on a user-entered seed (word or number). Each petal edge is drawn using a recursive Koch-curve algorithm, producing self-similar, snowflake-like detail. Built with HTML, CSS, and JavaScript.  
 
 ## Features
 
