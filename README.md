@@ -9,6 +9,12 @@ A simple web app that generates fractal flower patterns based on a user-entered 
 - Customizes depth, number of petals, and color based on the seed.
 - Responsive and easy-to-use UI.
 
+## Live Demo  
+🔗 [Fractal Flower Generator](https://cvcpatton.github.io/fractal-flower-gen/index.html "Fractal Flower Generator")
+
+## Sample Output  
+![Screenshot](fractal-flower-gen-screenshot.jpg "Screenshot")  
+
 ## Usage
 
 1. Clone the repository:
